@@ -19,5 +19,6 @@ How the transcript looks like:
 
 # Command Usage:
 
- - !save <amount of messages>
- - !fastsave
+ - !save <amount of messages>   --> !save 50
+ - !fastsave                    --> !fastsave
+ - !purge <timezone>            --> !purge berlin
