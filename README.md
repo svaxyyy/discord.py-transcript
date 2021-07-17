@@ -16,3 +16,8 @@ Contact Svaxyy#0859 on discord i`ll try my best to fix issues
 How the transcript looks like:
 
 ![alt text](https://cdn.discordapp.com/attachments/863516880571596801/865706746264551434/unknown.png)
+
+# Command Usage:
+
+ - !save <amount of messages>
+ - !fastsave
