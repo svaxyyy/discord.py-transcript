@@ -11,7 +11,7 @@ Contact Svaxyy#0859 on discord i`ll try my best to fix issues
 2. fill out the bot_config.json file in the database folder
 3. invite the bot to your server
 
-# Important Note!: Make sure to install the attached file and open it in you browser or something else.
+# Important Note!: Make sure to install the attached transcript file and open it in you browser or something else.
 
 How the transcript looks like:
 
